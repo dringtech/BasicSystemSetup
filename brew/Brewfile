@@ -22,6 +22,7 @@ brew 'zsh-autosuggestions'
 
 # For this example we are only installing "The Unarchiver", 
 # which is a file compressor/decompressor, like a Mac winzip
+#mas "Drafts", id: 1435957248
 mas "The Unarchiver", id: 425424353
 # mas "Keynote", id: 409183694
 # mas "Numbers", id: 409203825
@@ -39,7 +40,7 @@ mas "The Unarchiver", id: 425424353
 # For those we use the cask command
 
 # For this example we'll only install Chrome
-cask "google-chrome"
+# cask "google-chrome"
 # cask "visual-studio-code"
 # cask "microsoft-edge"
 # cask "docker"
