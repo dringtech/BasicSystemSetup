@@ -23,7 +23,7 @@ brew 'zsh-autosuggestions'
 # For this example we are only installing "The Unarchiver", 
 # which is a file compressor/decompressor, like a Mac winzip
 #mas "Drafts", id: 1435957248
-mas "The Unarchiver", id: 425424353
+#mas "The Unarchiver", id: 425424353
 # mas "Keynote", id: 409183694
 # mas "Numbers", id: 409203825
 # mas "Pages", id: 409201541
