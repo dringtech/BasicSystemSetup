@@ -1,8 +1,8 @@
 # These pacakges provide the necessary information for Homebrew 
 # to install and manage various software packages and applications.
 tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/core"
+#tap "homebrew/cask"
+#tap "homebrew/core"
 
 # Homebrew can manage 3 kind of apps
 # 'brew' will be used for CLI software
